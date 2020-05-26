@@ -1,4 +1,4 @@
->text
+>type:text
 # What is an Open Program?
 An open program is a course offered in a way that anyone can interact with the source materials, prupose changes or update with the latest info. 
 
